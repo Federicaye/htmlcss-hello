@@ -1,0 +1,22 @@
+/* reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+#app {
+    width: 100%;
+    height: 100vh;
+    background-color: blueviolet;
+
+}
+
+/* h */
+
+header {
+    height: 50px;
+}
